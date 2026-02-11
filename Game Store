@@ -619,7 +619,8 @@
  { id: 'tictactoe', title: '2 Player Tic-Tac-Toe', desc: "Tic Tac Toe for two players! Don't play if you rage a lot.", icon: '❌', price: 30, url: 'https://raw.githubusercontent.com/31schuetth-alt/2-Player-Tic-Tac-Toe/ab34402d34b4f85032387c8d8759f91720b276a1/2%20Player%20tic%20tac%20toe' },
  { id: 'billiards', title: 'Billiards and Beyond', desc: "This is more than just Billiards. It's BEYOND Billiards.", icon: '🎱', price: 50, url: 'https://raw.githubusercontent.com/31schuetth-alt/Beyond-Billiards/refs/heads/main/Beyond%20Billiards' },
  { id: 'pong', title: 'Pong Ultra', desc: "Pong with abilities!", icon: '🏓', price: 30, url: 'https://raw.githubusercontent.com/31schuetth-alt/Pong/refs/heads/main/Pong' },
- { id: 'snake', title: 'Custom Snake', desc: "Snake but... you could make it MUCH more than normal snake.", icon: '🐍', price: 25, url: 'https://raw.githubusercontent.com/31schuetth-alt/Snake/refs/heads/main/Snake' }
+ { id: 'snake', title: 'Custom Snake', desc: "Snake but... you could make it MUCH more than normal snake.", icon: '🐍', price: 25, url: 'https://raw.githubusercontent.com/31schuetth-alt/Snake/refs/heads/main/Snake' },
+ { id: 'darts', title: 'Darts', desc: "this is actually really hard not gonna lie", icon: '🎯', price: 35, url: 'https://raw.githubusercontent.com/31schuetth-alt/Darts/refs/heads/main/Darts' }
  ];
 
  const TASK_POOLS = {
